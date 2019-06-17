@@ -1,9 +1,16 @@
 {
+<<<<<<< HEAD
   "name": "components",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "faker": "^4.1.0",
+=======
+  "name": "jsx",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+>>>>>>> 02f3dd9a674bc0ae2eb8812641dd464b314ddfb2
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
